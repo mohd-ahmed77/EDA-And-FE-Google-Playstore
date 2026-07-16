@@ -180,30 +180,4 @@ I enjoy building projects that combine technical implementation with practical b
 
 ---
 
-# 🤝 Open to Opportunities
-
-I'm actively seeking opportunities in:
-
-* Data Analyst
-* Data Scientist
-* Machine Learning Engineer
-* Python Developer
-* AI Engineer
-
-If you're a recruiter, hiring manager, or fellow developer, I'd be happy to connect, collaborate, and discuss opportunities.
-
----
-
-# ⭐ Support
-
-If you found this project useful:
-
-⭐ Star this repository
-
-🍴 Fork the project
-
-💬 Share your feedback
-
----
-
-> **"Great data tells a story. Great analysis helps people make better decisions."**
+ decisions."**
